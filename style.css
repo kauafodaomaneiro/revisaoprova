@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navbar{
+    margin: 0px;
+    padding: 5px;
+    background-color: greenyellow;
+    color: black;
+    border: solid;
+    border-color: black;
+    
+    display: flex;
+    justify-content: center;
+}
+
+.tipo{
+    background-color: greenyellow;
+    border: solid;
+    border-color: black;
+    color: black;
+    padding: 8px;
+    
+}
+
+section{
+    display: flex;
+    margin: 20px;
+}
